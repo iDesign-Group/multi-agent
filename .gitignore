@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+
+# Data and artifacts
+data/*.db
+reports/*.pdf

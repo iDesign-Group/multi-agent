@@ -1,0 +1,54 @@
+{
+  "industry": "Web Hosting & Cloud Services",
+  "target_company": "iDesign",
+  "competitors": [
+    {
+      "name": "Hostinger",
+      "url": "https://www.hostinger.com",
+      "pages": [
+        {
+          "url": "https://www.hostinger.com/pricing",
+          "title": "Hostinger Web Hosting Plans & Pricing",
+          "content": "Hostinger provides aggressive value-tier web hosting starting at ₹149/month with free domain, free website builder, and unlimited SSL certificates. Recently launched automated AI Website Builder 2.0 with instant SEO optimization and AI image generator. Offers managed WordPress hosting, cloud hosting, and VPS hosting with NVMe storage. Target market is small businesses, freelancers, and budget-conscious web creators seeking maximum cost efficiency."
+        },
+        {
+          "url": "https://www.hostinger.com/vps-hosting",
+          "title": "Hostinger VPS Hosting Solutions",
+          "content": "Hostinger recently introduced refreshed KVM VPS hosting starting at ₹499/month featuring dedicated IPv4/IPv6, weekly automated backups, AI Assistant for server administration, and full root access. Key drawback reported by developers is the absence of phone customer support, relying strictly on 24/7 live chat."
+        }
+      ]
+    },
+    {
+      "name": "Bluehost",
+      "url": "https://www.bluehost.com",
+      "pages": [
+        {
+          "url": "https://www.bluehost.com/hosting",
+          "title": "Bluehost WordPress and Shared Hosting",
+          "content": "Bluehost is an officially WordPress-recommended hosting provider tailored for SMBs and beginners starting at ₹279/month. Includes customized WordPress onboarding wizards, free Yoast SEO integration, and 24/7 phone support. Recently announced a price reduction on multi-year initial contracts to counter budget competitors, though renewal rates increase sharply up to 300% after the initial term."
+        },
+        {
+          "url": "https://www.bluehost.com/cloud",
+          "title": "Bluehost Cloud Hosting Launch",
+          "content": "Bluehost launched a managed Cloud platform specifically targeting high-traffic WooCommerce stores and digital marketing agencies, delivering 100% network uptime SLA and multi-region failover. Pricing begins at ₹2,499/month, placing it squarely in the mid-to-high agency tier."
+        }
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com",
+      "pages": [
+        {
+          "url": "https://www.cloudflare.com/products",
+          "title": "Cloudflare Edge Cloud & Security Infrastructure",
+          "content": "Cloudflare operates a global edge network providing DNS, CDN, DDoS protection, and serverless compute via Cloudflare Workers. Features a generous free tier for basic web protection and Pro tier at ₹1,650/month ($20/mo). Enterprise tiers scale to ₹25,000+/month. Recently unveiled Workers AI and automated Zero Trust security bundles for developer teams and mid-market enterprises."
+        },
+        {
+          "url": "https://www.cloudflare.com/security",
+          "title": "Cloudflare Web Application Firewall Updates",
+          "content": "Cloudflare introduced machine-learning powered WAF rules and API gateway threat detection to prevent credential stuffing and automated bot scrapes. Positioning firmly focuses on enterprise security, ultra-low latency, and infrastructure reliability rather than traditional cPanel website hosting."
+        }
+      ]
+    }
+  ]
+}

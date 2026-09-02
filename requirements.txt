@@ -1,0 +1,27 @@
+# Multi-Agent Market & Competitor Intelligence System
+# Core orchestration & state machine
+langgraph>=1.2.0
+langchain-core>=1.4.0
+
+# Data modeling & validation
+pydantic>=2.7.0
+
+# HTTP & Web Scraping
+httpx>=0.27.0
+beautifulsoup4>=4.12.0
+
+# Backend & Web Serving
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+
+# Demo UI & Visualization
+streamlit>=1.35.0
+plotly>=5.22.0
+pandas>=2.2.0
+
+# Document & Report Generation
+reportlab>=4.2.0
+
+# Testing
+pytest>=8.0.0
