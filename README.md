@@ -40,7 +40,7 @@ flowchart LR
 - Deconstructs findings into discrete, falsifiable factual assertions (`ClaimItem`), each tagged with category and alleged source IDs.
 
 ### 3. Validator / Evidence Agent (`src/agents/validator.py`)
-> **Core AI Evaluation / Labelbox Alignment Feature**
+> **Core AI Evaluation & Grounding Feature**
 > Designed specifically around AI evaluation principles: verifying output reliability, ground-truth alignment, and citation accuracy.
 - Performs automated cross-examination of every claim against collected source chunks.
 - Computes token overlap, key term presence, and semantic alignment.

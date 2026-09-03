@@ -80,7 +80,7 @@ def main():
         print(row)
 
     print("\n" + "-" * 70)
-    print(" [?] EVIDENCE QUALITY & AI EVALUATION (LABELBOX AUDIT)")
+    print(" [?] EVIDENCE QUALITY & AI EVALUATION AUDIT")
     print("-" * 70)
     print(f" Total Claims Audited     : {val.get('total_claims')}")
     print(f" Validated Ground-Truth   : {val.get('claims_validated')}")

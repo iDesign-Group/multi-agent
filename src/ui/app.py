@@ -202,7 +202,7 @@ if run_button or "research_result" in st.session_state:
         [
             "🏢 Competitive Landscape & 2x2 Map",
             "💡 Opportunities & Actions",
-            "🔍 Evidence Quality (Labelbox Audit)",
+            "🔍 Evidence Quality & Claim Audit",
             "📄 Download & Export",
         ]
     )
@@ -312,7 +312,7 @@ if run_button or "research_result" in st.session_state:
         st.subheader("Evidence Quality & Hallucination Audit")
         st.markdown(
             """
-            > **Labelbox Evaluation Spotlight:**
+            > **Automated Evidence Evaluation & Grounding:**
             > In high-stakes AI pipelines, accuracy and ground-truth verification are paramount. 
             > The **Validator Agent** systematically parses every claim asserted by the Analyst, computes keyword alignment against primary scraped source chunks,
             > and flags unsupported assertions or hallucinations before they reach the executive report.
