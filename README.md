@@ -109,7 +109,7 @@ Audited against source material by Validator Agent
 ## Project Structure
 
 ```
-iDesignBooks_Anti/
+multi-agent/
 ├── fixtures/
 │   └── sample_competitors.json   # Verified sample competitor dataset for instant offline runs
 ├── src/
@@ -151,7 +151,7 @@ iDesignBooks_Anti/
 Clone repository and install requirements:
 ```bash
 git clone <repo-url>
-cd iDesignBooks_Anti
+cd multi-agent
 pip install -r requirements.txt
 ```
 
