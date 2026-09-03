@@ -94,7 +94,7 @@ flowchart LR
 
 ### Evidence Quality & Reliability Audit
 ```
-Evidence Quality Score: 91.4%
+Evidence Quality Score: 87.5%
 Claims Validated: 7 / 8
 Claims Requiring Review: 1
 Audited against source material by Validator Agent
@@ -150,7 +150,7 @@ multi-agent/
 
 Clone repository and install requirements:
 ```bash
-git clone <repo-url>
+git clone https://github.com/iDesign-Group/multi-agent.git
 cd multi-agent
 pip install -r requirements.txt
 ```
